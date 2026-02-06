@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Everyone
+
+### Hansung Univ. Computer Engineering
+
+### C, C++, Java, Python, Unity, Linux
+
 
 <!--
 **DaeChan-Kwon/DaeChan-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
