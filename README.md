@@ -1,21 +1,19 @@
-## Hello Everyone
+# 👋 Hi, I'm Daechan
 
-### Hansung Univ. Computer Engineering
+### 🧑‍💻 About Me
+- 💻 System Programmer in training
+- 🌱 Currently learning C / C++ / Linux
+- 🎯 Interested in low-level & OS
 
-Learning C, C++, Java, Python, Unity, Linux, etc..
+---
 
+### 🛠 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<!--
-**DaeChan-Kwon/DaeChan-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=네아이디&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
