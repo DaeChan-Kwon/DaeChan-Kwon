@@ -15,5 +15,5 @@
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=네아이디&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DaeChan-Kwon&show_icons=true)
 
