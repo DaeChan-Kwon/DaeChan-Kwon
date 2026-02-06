@@ -28,16 +28,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaeChan-Kwon&show_icons=true&theme=tokyonight)
-
----
-
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeChan-Kwon&layout=compact&theme=tokyonight)
-
----
-
 ### 🚀 Goals
 - 🔧 Become a System / Low-level Programmer
 - 🐧 Master Linux & OS internals
