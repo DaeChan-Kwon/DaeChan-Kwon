@@ -2,7 +2,7 @@
 
 ### Hansung Univ. Computer Engineering
 
-Learning C, C++, Java, Python, Unity, Linux
+Learning C, C++, Java, Python, Unity, Linux, etc..
 
 
 <!--
